@@ -1,0 +1,9 @@
+{
+  "item.villager-pickup.captured_villager": "手持村民",
+  "tooltip.villager-pickup.profession": "职业：%s（等级 %s）",
+  "tooltip.villager-pickup.unemployed": "无业",
+  "tooltip.villager-pickup.how_to_release": "右键点击方块放出村民",
+  "tooltip.villager-pickup.empty": "空（没有装任何村民）",
+  "message.villager-pickup.captured": "已拾取 %s",
+  "message.villager-pickup.busy": "这个村民正在和别人交易，无法拾取"
+}

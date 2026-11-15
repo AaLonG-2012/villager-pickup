@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "villager-pickup",
+	"version": "${version}",
+	"name": "Villager Pickup",
+	"description": "Sneak + right-click a villager to pick it up into an item, then right-click a block to put it back exactly as it was.\n潜行右键村民即可收进物品，右键方块原样放回。",
+	"authors": [
+		"AaLonG-2012"
+	],
+	"contact": {
+		"homepage": "https://github.com/AaLonG-2012/villager-pickup",
+		"sources": "https://github.com/AaLonG-2012/villager-pickup",
+		"issues": "https://github.com/AaLonG-2012/villager-pickup/issues"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/villager-pickup/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.villagerpickup.VillagerPickup"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,9 @@
+{
+  "item.villager-pickup.captured_villager": "Handheld Villager",
+  "tooltip.villager-pickup.profession": "Profession: %s (level %s)",
+  "tooltip.villager-pickup.unemployed": "Unemployed",
+  "tooltip.villager-pickup.how_to_release": "Right-click a block to release",
+  "tooltip.villager-pickup.empty": "Empty (no villager inside)",
+  "message.villager-pickup.captured": "Captured %s",
+  "message.villager-pickup.busy": "That villager is trading with someone else"
+}
