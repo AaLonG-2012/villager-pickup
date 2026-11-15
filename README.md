@@ -6,6 +6,11 @@
 
 ![icon](src/main/resources/assets/villager-pickup/icon.png)
 
+## 下载 / Download
+
+到 [Releases](https://github.com/AaLonG-2012/villager-pickup/releases) 下载 `villager-pickup-0.1.0.jar`，放进 `.minecraft/mods/`。
+需要 **Minecraft 26.3** + **Fabric Loader** + **Fabric API**。
+
 ## 玩法 / Usage
 
 | 操作 | 效果 |
